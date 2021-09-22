@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         this.tvMain = findViewById(R.id.tvMain);
-
     }
 
     public void onBtnClick(View view) {
